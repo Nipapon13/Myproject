@@ -1,0 +1,13 @@
+C:\Users\user\AppData\Local\Temporary Projects\My project\obj\x86\Debug\My_project.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\My project\obj\x86\Debug\My_project.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\My project\obj\x86\Debug\My project.vbproj.GenerateResource.Cache
+D:\Myproject\My project\My project\obj\x86\Debug\My_project.Form1.resources
+D:\Myproject\My project\My project\obj\x86\Debug\My_project.Resources.resources
+D:\Myproject\My project\My project\obj\x86\Debug\My project.vbproj.GenerateResource.Cache
+D:\Myproject\My project\My project\obj\x86\Debug\My_project.frmLab1.resources
+D:\Myproject\My project\My project\bin\Debug\My project.exe
+D:\Myproject\My project\My project\bin\Debug\My project.pdb
+D:\Myproject\My project\My project\bin\Debug\My project.xml
+D:\Myproject\My project\My project\obj\x86\Debug\My project.exe
+D:\Myproject\My project\My project\obj\x86\Debug\My project.xml
+D:\Myproject\My project\My project\obj\x86\Debug\My project.pdb
